@@ -22,9 +22,9 @@ On this github account I share my scripts which include Ricing Linux Desktop, Pl
 </details>
 
 <details>
-    <summary><b>My Stats</b></summary>
+    <summary><b>Just Violet-chan art (not original my art)</b></summary>
     <p align="center">
-    <a href="https://ibb.co/vQPtcZ9">
+    <a href="https://www.pixiv.net/en/artworks/83048128">
         <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%">
     </a>
     </p>

@@ -35,6 +35,6 @@ On this github account I share my scripts which include Ricing Linux Desktop, Pl
 <div align="center">
 
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/13atm01)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/b1a03b2651a1b25e21b9299404835f53/raw/9c3bccfc2dea21a2cbe8266066c070be5935d8e2/rb-myanimelist.json)](https://myanimelist.net/profile/13atm01)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/b1a03b2651a1b25e21b9299404835f53/raw/f42f4ef82041156c3192f0b75fe871fb54652db0/rb-myanimelist.json)](https://myanimelist.net/profile/13atm01)
 </div>
 </details>

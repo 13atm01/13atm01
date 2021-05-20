@@ -5,8 +5,17 @@
 </p>
 
 <details>
+    <summary><b>Just Violet-chan art (not original my art)</b></summary>
+    <p align="center">
+    <a href="https://www.pixiv.net/en/artworks/83048128">
+        <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%">
+    </a>
+    </p>
+</details>
+
+<details>
     <summary><b>My Bio</b></summary>
-On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screen, GRUB Theme and all anime themed.
+    <b>Hi, I'm Andi Trisna Mukti</b>, On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screen, GRUB Theme and all anime themed.
 </details>
 
 <details>
@@ -19,15 +28,6 @@ On this github account I share my scripts which include Ricing Linux Desktop, Pl
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=13atm01&show_icons=true&hide_border=true&icon_color=25A8E1&title_color=8727D8&text_color=3B4252"/>
     </a>
 </p>
-</details>
-
-<details>
-    <summary><b>Just Violet-chan art (not original my art)</b></summary>
-    <p align="center">
-    <a href="https://www.pixiv.net/en/artworks/83048128">
-        <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%">
-    </a>
-    </p>
 </details>
 
 <details>	

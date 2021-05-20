@@ -25,7 +25,7 @@ On this github account I share my scripts which include Ricing Linux Desktop, Pl
     <summary><b>My Stats</b></summary>
     <p align="center">
     <a href="https://ibb.co/vQPtcZ9">
-        <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%" height="400px">
+        <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%">
     </a>
     </p>
 </details>

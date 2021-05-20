@@ -15,3 +15,7 @@
         <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide=html,&hide_border=true&title_color=8727D8&text_color=3B4252"/>
     </a>
 </p>
+<details>
+    <summary><b>My Bio</b></summary><br>
+On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screen, GRUB Theme and all anime themed.
+</details>

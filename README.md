@@ -34,8 +34,7 @@ On this github account I share my scripts which include Ricing Linux Desktop, Pl
   <summary><b>Follow my social media</b></summary><br>
 <div align="center">
 
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-github.json)](https://github.com/13atm01)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/13atm01)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-myanimelist.json)](https://myanimelist.net/profile/13atm01)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/4899e2df2a3f1a5d388f6436db0059b3/raw/rb-linkedin.json)](https://www.linkedin.com/in/micheal-munoka/)
 </div>
 </details>

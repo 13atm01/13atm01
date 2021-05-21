@@ -15,7 +15,7 @@
 
 <details>
     <summary><b>My Bio</b></summary>
-    <b>Hi, I'm <a href="">Andi Trisna Mukti</a></b>, On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screen, GRUB Theme and all anime themed.
+    <b>Hi, I'm <a href="">Andi Trisna Mukti</a></b>, On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screens, GRUB Themes and all anime themed.
 </details>
 
 <details>

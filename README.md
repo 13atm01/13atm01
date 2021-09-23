@@ -11,16 +11,15 @@
 <details>
     <summary>🚀&nbsp;<b>Just Violet-chan art (not original my art)</b></summary>
   
-  <p align="center">
+<p align="center">
     <a href="https://www.pixiv.net/en/artworks/83048128">
         <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%">
     </a>
-  </p>
+</p>
 </details>
 
 <details>
-    <summary>🚀&nbsp;<b>My Bio</b></summary>
-    
+    <summary>🚀&nbsp;<b>My Bio</b></summary>   
     <b>Hi, I'm <a href="">Andi Trisna Mukti</a></b>, On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screens, GRUB Themes and all anime themed.
 </details>
 
@@ -52,7 +51,6 @@
 <details>	
   <summary>🚀&nbsp;<b>Follow my social media</b></summary><br>
 <div align="center">
-
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/c8ead05d056b33aeb8781326ab3f477c/raw/2347c2085b169b0c6391cf4fcd2e438be55cbdc3/rb-linktree.json)](https://linktr.ee/13atm01)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/2d5af12777fcdb3ed38fb8b49320abd1/raw/551fc5b53351e97c9808e216a3d791999ba5a257/rb-github.json)](https://github.com/13atm01)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/b1a03b2651a1b25e21b9299404835f53/raw/7665661e37e4a061c1e1cacdab54f13f62af47c9/rb-myanimelist.json)](https://myanimelist.net/profile/13atm01)

@@ -10,6 +10,7 @@
 
 <details>
     <summary>🚀&nbsp;<b>Just Violet-chan art (not original my art)</b></summary>
+  
   <p align="center">
     <a href="https://www.pixiv.net/en/artworks/83048128">
         <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%">
@@ -19,6 +20,7 @@
 
 <details>
     <summary>🚀&nbsp;<b>My Bio</b></summary>
+    
     <b>Hi, I'm <a href="">Andi Trisna Mukti</a></b>, On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screens, GRUB Themes and all anime themed.
 </details>
 

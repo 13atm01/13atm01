@@ -24,6 +24,7 @@
 
 <details>
     <summary>🚀&nbsp;<b>My Statistics</b></summary>    
+
 <p align="center">
     <a href="#">
         <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=13atm01&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>

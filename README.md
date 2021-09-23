@@ -10,11 +10,11 @@
 
 <details>
     <summary><b>Just Violet-chan art (not original my art)</b></summary>
-    <p align="center">
+  <p align="center">
     <a href="https://www.pixiv.net/en/artworks/83048128">
         <img src="https://i.ibb.co/nncWwzp/VE.jpg" width"100%">
     </a>
-    </p>
+  </p>
 </details>
 
 <details>
@@ -23,13 +23,20 @@
 </details>
 
 <details>
-    <summary><b>My Stats</b></summary>
+    <summary><b>My Stats</b></summary>    
 <p align="center">
     <a href="#">
-        <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=13atm01&row=2&column=3"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=13atm01&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
     </a>
+</p>
+<p align="center">
     <a href="#">
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=false&title_color=8727D8&text_color=3B4252&layout=compact"/>
+        <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=13atm01&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>
+    </a>
+</p>
+<p align="center">
+    <a href="#">
+        <img height="195px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=false&title_color=8727D8&text_color=3B4252&layout=compact"/>
     </a>
     <a href="#">
         <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=13atm01&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff"/>

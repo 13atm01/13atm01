@@ -36,10 +36,10 @@
 </p>
 <p align="center">
     <a href="#">
-        <img height="180px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=false&title_color=8727D8&text_color=3B4252&layout=compact"/>
+        <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=13atm01&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff"/>
     </a>
     <a href="#">
-        <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=13atm01&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff"/>
+        <img height="180px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=false&title_color=8727D8&text_color=3B4252&layout=compact"/>
     </a>
 </p>
 </details>

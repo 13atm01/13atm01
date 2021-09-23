@@ -22,10 +22,13 @@
     <summary><b>My Stats</b></summary>
 <p align="center">
     <a href="#">
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=true&title_color=8727D8&text_color=3B4252"/>
+        <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=13atm01&row=2&column=3"/>
     </a>
     <a href="#">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=13atm01&show_icons=true&hide_border=true&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=false&title_color=8727D8&text_color=3B4252&layout=compact"/>
+    </a>
+    <a href="#">
+        <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=13atm01&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff"/>
     </a>
 </p>
 </details>

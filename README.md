@@ -26,20 +26,22 @@
     <summary>🚀&nbsp;<b>My Statistics</b></summary>    
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=13atm01&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
+        <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=13atm01&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>
     </a>
 </p>
 <p align="center">
     <a href="#">
-        <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=13atm01&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=13atm01&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
     </a>
 </p>
 <p align="center">
     <a href="#">
         <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=13atm01&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff"/>
     </a>
+</p>
+<p align="center">
     <a href="#">
-        <img height="180px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=true&title_color=8727D8&text_color=3B4252&layout=compact"/>
+        <img height="180px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13atm01&hide_border=false&title_color=8727D8&text_color=3B4252&layout=compact"/>
     </a>
 </p>
 </details>

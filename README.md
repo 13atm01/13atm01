@@ -60,5 +60,6 @@
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/7c98f92f10d4e79c09d47ea466bdf6a4/raw/44a95a3d3534d2403e5e22a6b53f12afa2604124/rb-facebook.json)](https://www.facebook.com/anditrisna.mukti)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/5fbf4804ffc44b54d9c0f52da7597994/raw/fe99b2e7f9588a0840e033b7a8afc462b22fa75e/rb-twitter.json)](https://www.twitter.com/AndiTrisnaMukt1)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/a5e4365f7ab188f1bc0eee4453ec380c/raw/3f31252ec42053c3c8a57b30840cf63d9f5b897e/rb-instagram.json)](https://www.instagram.com/andi_trisna_mukti)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/fd4fb888138793d9167938281cd84294/raw/6ff1b3264294423978fee00648fefe1c423d6339/rb-linkedin.json)](https://www.linkedin.com/in/andi-trisna-mukti)
 </div>
 </details>

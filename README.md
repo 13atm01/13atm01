@@ -46,11 +46,6 @@
         <img height="180px" alt="Top Language" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=13atm01&hide_border=false&title_color=8727D8&text_color=3B4252&layout=compact"/>
     </a>
 </p>
-<p align="center">
-    <a href="https://count.getloli.com/">
-        <img src="https://count.getloli.com/get/@13atm01.readme?theme=rule34" alt="13atm01"/>
-        </a>
-</p>
 </details>
 
 <details>	

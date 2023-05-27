@@ -8,7 +8,7 @@
     </a>
 </p>
 
-<details>
+<details open>
     <summary>🚀&nbsp;<b>Just Violet-chan art (not original my art)</b></summary>
   
 <p align="center">
@@ -18,12 +18,12 @@
 </p>
 </details>
 
-<details>
+<details open>
     <summary>🚀&nbsp;<b>My Bio</b></summary>   
     <b>Hi, I'm <a href="">Andi Trisna Mukti</a></b>, On this github account I share my scripts which include Ricing Linux Desktop, Plasma Splash Screens, GRUB Themes and all anime themed.
 </details>
 
-<details>
+<details open>
     <summary>🚀&nbsp;<b>My Statistics</b></summary>    
 
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 </details>
 
-<details>	
+<details open>	
   <summary>🚀&nbsp;<b>Follow my social media</b></summary><br>
 <div align="center">
 

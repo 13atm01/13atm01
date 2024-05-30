@@ -28,7 +28,7 @@
 </p>
 <p align="center">
     <a href="#">
-        <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=13atm01&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff"/>
+        <img alt="GitHub Stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=13atm01&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff&include_all_commits=true"/>
     </a>
 </p>
 <p align="center">

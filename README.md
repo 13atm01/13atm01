@@ -23,7 +23,7 @@
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=13atm01&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=13atm01&theme=transparent&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
     </a>
 </p>
 <p align="center">
@@ -44,9 +44,9 @@
 
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/c8ead05d056b33aeb8781326ab3f477c/raw/2347c2085b169b0c6391cf4fcd2e438be55cbdc3/rb-linktree.json)](https://linktr.ee/13atm01)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/29c56993ee2960e001804e947e138c9d/raw/17a61a6b2f3a63c98fb4171c5d43c58f5add6e33/rb-deviantart.json)](https://www.deviantart.com/13andi01)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/7c98f92f10d4e79c09d47ea466bdf6a4/raw/44a95a3d3534d2403e5e22a6b53f12afa2604124/rb-facebook.json)](https://www.facebook.com/anditrisna.mukti)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/5fbf4804ffc44b54d9c0f52da7597994/raw/fe99b2e7f9588a0840e033b7a8afc462b22fa75e/rb-twitter.json)](https://www.twitter.com/AndiTrisnaMukt1)
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/a5e4365f7ab188f1bc0eee4453ec380c/raw/3f31252ec42053c3c8a57b30840cf63d9f5b897e/rb-instagram.json)](https://www.instagram.com/andi_trisna_mukti)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/7c98f92f10d4e79c09d47ea466bdf6a4/raw/1af0fc71288e2a1c09a96f3279f27d8fb2e3e044/rb-facebook.json)](https://www.facebook.com/anditrisna.mukti)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/5fbf4804ffc44b54d9c0f52da7597994/raw/ce01861ae66b4ac9e14457f253077013539f3cd5/rb-twitter.json)](https://www.twitter.com/AndiTrisnaMukt1)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/a5e4365f7ab188f1bc0eee4453ec380c/raw/3e63c624d0104b01ff2e6a6487f2b2b817f69824/rb-instagram.json)](https://www.instagram.com/andi_trisna_mukti)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/2d5af12777fcdb3ed38fb8b49320abd1/raw/551fc5b53351e97c9808e216a3d791999ba5a257/rb-github.json)](https://github.com/13atm01)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/25eec5feab884a83d1edd33ccd078386/raw/8b16d0489e08d1dab590c80333935c224d8041e9/rb-linuxstore.json)](https://www.pling.com/u/13atm01)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/13atm01/b1a03b2651a1b25e21b9299404835f53/raw/7665661e37e4a061c1e1cacdab54f13f62af47c9/rb-myanimelist.json)](https://myanimelist.net/profile/13atm01)

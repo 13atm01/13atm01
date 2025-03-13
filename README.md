@@ -23,7 +23,7 @@
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=13atm01&theme=transparent&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=13atm01&theme=transparent&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
     </a>
 </p>
 <p align="center">
